@@ -1,0 +1,22 @@
+
+.rodape{
+    background-color: hwb(0 10% 90%);
+    margin-top: 85px;
+    height: 140px;
+  
+}
+.img1{
+
+    width: 250px;
+    height: 80px;
+    margin-top: 30px;
+    margin-left: 520px;
+}
+.img2{
+    margin-left: 50px;
+    width: 105px;
+    height: 80px;
+    margin-top: 30px;
+}
+
+

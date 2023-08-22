@@ -1,0 +1,10 @@
+.carro {
+    margin-left: 440px;
+    margin-top: 20px;
+    width: 640px;
+    
+}
+.carrofundo{
+    background-color: red;
+    height: 340px;
+}
